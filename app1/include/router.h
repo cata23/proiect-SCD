@@ -24,7 +24,7 @@ SC_MODULE( Router )
     SC_CTOR(Router);
 
     /**
-     * @brief just    for test
+     * @brief just for test
      */
     void do_stuff();
 
