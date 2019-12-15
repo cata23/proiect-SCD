@@ -42,10 +42,10 @@ RM = C:\Users\Cata\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.5233.144\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\project_systemC\app1
+CMAKE_SOURCE_DIR = D:\github_project_systemC\proiect-SCD\app1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\project_systemC\app1\cmake-build-debug
+CMAKE_BINARY_DIR = D:\github_project_systemC\proiect-SCD\app1\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/app1.dir/depend.make
@@ -59,72 +59,72 @@ include CMakeFiles/app1.dir/flags.make
 CMakeFiles/app1.dir/src/configurator.cpp.obj: CMakeFiles/app1.dir/flags.make
 CMakeFiles/app1.dir/src/configurator.cpp.obj: CMakeFiles/app1.dir/includes_CXX.rsp
 CMakeFiles/app1.dir/src/configurator.cpp.obj: ../src/configurator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\project_systemC\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/app1.dir/src/configurator.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\app1.dir\src\configurator.cpp.obj -c D:\project_systemC\app1\src\configurator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github_project_systemC\proiect-SCD\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/app1.dir/src/configurator.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\app1.dir\src\configurator.cpp.obj -c D:\github_project_systemC\proiect-SCD\app1\src\configurator.cpp
 
 CMakeFiles/app1.dir/src/configurator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/app1.dir/src/configurator.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\project_systemC\app1\src\configurator.cpp > CMakeFiles\app1.dir\src\configurator.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github_project_systemC\proiect-SCD\app1\src\configurator.cpp > CMakeFiles\app1.dir\src\configurator.cpp.i
 
 CMakeFiles/app1.dir/src/configurator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/app1.dir/src/configurator.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\project_systemC\app1\src\configurator.cpp -o CMakeFiles\app1.dir\src\configurator.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github_project_systemC\proiect-SCD\app1\src\configurator.cpp -o CMakeFiles\app1.dir\src\configurator.cpp.s
 
 CMakeFiles/app1.dir/src/cpu.cpp.obj: CMakeFiles/app1.dir/flags.make
 CMakeFiles/app1.dir/src/cpu.cpp.obj: CMakeFiles/app1.dir/includes_CXX.rsp
 CMakeFiles/app1.dir/src/cpu.cpp.obj: ../src/cpu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\project_systemC\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/app1.dir/src/cpu.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\app1.dir\src\cpu.cpp.obj -c D:\project_systemC\app1\src\cpu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github_project_systemC\proiect-SCD\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/app1.dir/src/cpu.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\app1.dir\src\cpu.cpp.obj -c D:\github_project_systemC\proiect-SCD\app1\src\cpu.cpp
 
 CMakeFiles/app1.dir/src/cpu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/app1.dir/src/cpu.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\project_systemC\app1\src\cpu.cpp > CMakeFiles\app1.dir\src\cpu.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github_project_systemC\proiect-SCD\app1\src\cpu.cpp > CMakeFiles\app1.dir\src\cpu.cpp.i
 
 CMakeFiles/app1.dir/src/cpu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/app1.dir/src/cpu.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\project_systemC\app1\src\cpu.cpp -o CMakeFiles\app1.dir\src\cpu.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github_project_systemC\proiect-SCD\app1\src\cpu.cpp -o CMakeFiles\app1.dir\src\cpu.cpp.s
 
 CMakeFiles/app1.dir/src/main.cpp.obj: CMakeFiles/app1.dir/flags.make
 CMakeFiles/app1.dir/src/main.cpp.obj: CMakeFiles/app1.dir/includes_CXX.rsp
 CMakeFiles/app1.dir/src/main.cpp.obj: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\project_systemC\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/app1.dir/src/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\app1.dir\src\main.cpp.obj -c D:\project_systemC\app1\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github_project_systemC\proiect-SCD\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/app1.dir/src/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\app1.dir\src\main.cpp.obj -c D:\github_project_systemC\proiect-SCD\app1\src\main.cpp
 
 CMakeFiles/app1.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/app1.dir/src/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\project_systemC\app1\src\main.cpp > CMakeFiles\app1.dir\src\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github_project_systemC\proiect-SCD\app1\src\main.cpp > CMakeFiles\app1.dir\src\main.cpp.i
 
 CMakeFiles/app1.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/app1.dir/src/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\project_systemC\app1\src\main.cpp -o CMakeFiles\app1.dir\src\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github_project_systemC\proiect-SCD\app1\src\main.cpp -o CMakeFiles\app1.dir\src\main.cpp.s
 
 CMakeFiles/app1.dir/src/mem.cpp.obj: CMakeFiles/app1.dir/flags.make
 CMakeFiles/app1.dir/src/mem.cpp.obj: CMakeFiles/app1.dir/includes_CXX.rsp
 CMakeFiles/app1.dir/src/mem.cpp.obj: ../src/mem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\project_systemC\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/app1.dir/src/mem.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\app1.dir\src\mem.cpp.obj -c D:\project_systemC\app1\src\mem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github_project_systemC\proiect-SCD\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/app1.dir/src/mem.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\app1.dir\src\mem.cpp.obj -c D:\github_project_systemC\proiect-SCD\app1\src\mem.cpp
 
 CMakeFiles/app1.dir/src/mem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/app1.dir/src/mem.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\project_systemC\app1\src\mem.cpp > CMakeFiles\app1.dir\src\mem.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github_project_systemC\proiect-SCD\app1\src\mem.cpp > CMakeFiles\app1.dir\src\mem.cpp.i
 
 CMakeFiles/app1.dir/src/mem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/app1.dir/src/mem.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\project_systemC\app1\src\mem.cpp -o CMakeFiles\app1.dir\src\mem.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github_project_systemC\proiect-SCD\app1\src\mem.cpp -o CMakeFiles\app1.dir\src\mem.cpp.s
 
 CMakeFiles/app1.dir/src/router.cpp.obj: CMakeFiles/app1.dir/flags.make
 CMakeFiles/app1.dir/src/router.cpp.obj: CMakeFiles/app1.dir/includes_CXX.rsp
 CMakeFiles/app1.dir/src/router.cpp.obj: ../src/router.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\project_systemC\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/app1.dir/src/router.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\app1.dir\src\router.cpp.obj -c D:\project_systemC\app1\src\router.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github_project_systemC\proiect-SCD\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/app1.dir/src/router.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\app1.dir\src\router.cpp.obj -c D:\github_project_systemC\proiect-SCD\app1\src\router.cpp
 
 CMakeFiles/app1.dir/src/router.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/app1.dir/src/router.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\project_systemC\app1\src\router.cpp > CMakeFiles\app1.dir\src\router.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github_project_systemC\proiect-SCD\app1\src\router.cpp > CMakeFiles\app1.dir\src\router.cpp.i
 
 CMakeFiles/app1.dir/src/router.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/app1.dir/src/router.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\project_systemC\app1\src\router.cpp -o CMakeFiles\app1.dir\src\router.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github_project_systemC\proiect-SCD\app1\src\router.cpp -o CMakeFiles\app1.dir\src\router.cpp.s
 
 # Object files for target app1
 app1_OBJECTS = \
@@ -146,7 +146,7 @@ app1.exe: CMakeFiles/app1.dir/build.make
 app1.exe: CMakeFiles/app1.dir/linklibs.rsp
 app1.exe: CMakeFiles/app1.dir/objects1.rsp
 app1.exe: CMakeFiles/app1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\project_systemC\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable app1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\github_project_systemC\proiect-SCD\app1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable app1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\app1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -159,6 +159,6 @@ CMakeFiles/app1.dir/clean:
 .PHONY : CMakeFiles/app1.dir/clean
 
 CMakeFiles/app1.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\project_systemC\app1 D:\project_systemC\app1 D:\project_systemC\app1\cmake-build-debug D:\project_systemC\app1\cmake-build-debug D:\project_systemC\app1\cmake-build-debug\CMakeFiles\app1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\github_project_systemC\proiect-SCD\app1 D:\github_project_systemC\proiect-SCD\app1 D:\github_project_systemC\proiect-SCD\app1\cmake-build-debug D:\github_project_systemC\proiect-SCD\app1\cmake-build-debug D:\github_project_systemC\proiect-SCD\app1\cmake-build-debug\CMakeFiles\app1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/app1.dir/depend
 

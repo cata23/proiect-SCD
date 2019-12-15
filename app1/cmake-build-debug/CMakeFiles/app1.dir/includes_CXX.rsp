@@ -1,1 +1,1 @@
--ID:/project_systemC/systemC/systemc-2.3.2/src -ID:/project_systemC/rapidJson/rapidjson-master/include/rapidjson -ID:/project_systemC/app1/include -ID:/project_systemC/app1/src 
+-ID:/github_project_systemC/proiect-SCD/app1/../systemC/systemc-2.3.2/src -ID:/github_project_systemC/proiect-SCD/app1/../rapidJson/rapidjson-master/include/rapidjson -ID:/github_project_systemC/proiect-SCD/app1/include -ID:/github_project_systemC/proiect-SCD/app1/src 

@@ -27,15 +27,15 @@ add_executable(${PROJECT_NAME}
 
 target_include_directories(${PROJECT_NAME}
     PRIVATE
-        D:/project_systemC/systemC/systemc-2.3.2/src
-        D:/project_systemC/rapidJson/rapidjson-master/include/rapidjson
-        D:/project_systemC/app1/include
-        D:/project_systemC/app1/src
+        ../systemC/systemc-2.3.2/src
+        ../rapidJson/rapidjson-master/include/rapidjson
+        include
+        src
 )
 
 target_link_directories(${PROJECT_NAME}
     PRIVATE
-        D:/systemC/systemc-2.3.2/src/cmake-build-debug
+        ../systemC/systemc-2.3.2/src/cmake-build-debug
 )
 
 target_link_libraries(${PROJECT_NAME}

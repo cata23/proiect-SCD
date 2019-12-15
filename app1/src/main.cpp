@@ -28,7 +28,7 @@ int sc_main(int argc, char *argv[])
 
     Configurator c("configurator");
 
-    Router r1("router 1");
+    Router r("router");
 
     sc_start(10, SC_NS);
 

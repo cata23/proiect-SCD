@@ -8,26 +8,26 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/project_systemC/app1/cmake-build-debug"/>
+				<Option working_dir="D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="app1">
-				<Option output="D:/project_systemC/app1/cmake-build-debug/app1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/project_systemC/app1/cmake-build-debug"/>
+				<Option output="D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/app1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/project_systemC/systemC/systemc-2.3.2/src"/>
-					<Add directory="D:/project_systemC/rapidJson/rapidjson-master/include/rapidjson"/>
-					<Add directory="D:/project_systemC/app1/include"/>
-					<Add directory="D:/project_systemC/app1/src"/>
+					<Add directory="D:/github_project_systemC/proiect-SCD/app1/../systemC/systemc-2.3.2/src"/>
+					<Add directory="D:/github_project_systemC/proiect-SCD/app1/../rapidJson/rapidjson-master/include/rapidjson"/>
+					<Add directory="D:/github_project_systemC/proiect-SCD/app1/include"/>
+					<Add directory="D:/github_project_systemC/proiect-SCD/app1/src"/>
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -36,23 +36,23 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 app1"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 app1"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="app1/fast">
-				<Option output="D:/project_systemC/app1/cmake-build-debug/app1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/project_systemC/app1/cmake-build-debug"/>
+				<Option output="D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/app1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/project_systemC/systemC/systemc-2.3.2/src"/>
-					<Add directory="D:/project_systemC/rapidJson/rapidjson-master/include/rapidjson"/>
-					<Add directory="D:/project_systemC/app1/include"/>
-					<Add directory="D:/project_systemC/app1/src"/>
+					<Add directory="D:/github_project_systemC/proiect-SCD/app1/../systemC/systemc-2.3.2/src"/>
+					<Add directory="D:/github_project_systemC/proiect-SCD/app1/../rapidJson/rapidjson-master/include/rapidjson"/>
+					<Add directory="D:/github_project_systemC/proiect-SCD/app1/include"/>
+					<Add directory="D:/github_project_systemC/proiect-SCD/app1/src"/>
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -61,64 +61,64 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 app1/fast"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 app1/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/project_systemC/app1/cmake-build-debug"/>
+				<Option working_dir="D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/project_systemC/app1/cmake-build-debug"/>
+				<Option working_dir="D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/project_systemC/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/project_systemC/app1/include/configurator.h">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/include/configurator.h">
 			<Option target="app1"/>
 		</Unit>
-		<Unit filename="D:/project_systemC/app1/include/cpu.h">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/include/cpu.h">
 			<Option target="app1"/>
 		</Unit>
-		<Unit filename="D:/project_systemC/app1/include/mem.h">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/include/mem.h">
 			<Option target="app1"/>
 		</Unit>
-		<Unit filename="D:/project_systemC/app1/include/router.h">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/include/router.h">
 			<Option target="app1"/>
 		</Unit>
-		<Unit filename="D:/project_systemC/app1/include/types.h">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/include/types.h">
 			<Option target="app1"/>
 		</Unit>
-		<Unit filename="D:/project_systemC/app1/src/configurator.cpp">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/src/configurator.cpp">
 			<Option target="app1"/>
 		</Unit>
-		<Unit filename="D:/project_systemC/app1/src/cpu.cpp">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/src/cpu.cpp">
 			<Option target="app1"/>
 		</Unit>
-		<Unit filename="D:/project_systemC/app1/src/main.cpp">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/src/main.cpp">
 			<Option target="app1"/>
 		</Unit>
-		<Unit filename="D:/project_systemC/app1/src/mem.cpp">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/src/mem.cpp">
 			<Option target="app1"/>
 		</Unit>
-		<Unit filename="D:/project_systemC/app1/src/router.cpp">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/src/router.cpp">
 			<Option target="app1"/>
 		</Unit>
-		<Unit filename="D:/project_systemC/app1/CMakeLists.txt">
+		<Unit filename="D:/github_project_systemC/proiect-SCD/app1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
