@@ -1,3 +1,0 @@
-D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/CMakeFiles/app1.dir
-D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/github_project_systemC/proiect-SCD/app1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

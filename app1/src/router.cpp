@@ -8,5 +8,5 @@ Router::Router(::sc_core::sc_module_name)
 
 void Router::do_stuff()
 {
-    std::cout << "do stuff function for router\n";
+    std::cout << "do stuff function for     router\n";
 }

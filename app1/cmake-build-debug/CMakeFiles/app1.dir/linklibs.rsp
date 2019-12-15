@@ -1,1 +1,0 @@
- -LD:/github_project_systemC/proiect-SCD/app1/../systemC/systemc-2.3.2/src/cmake-build-debug -Wl,-Bstatic -lsystemc -Wl,-Bdynamic -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
